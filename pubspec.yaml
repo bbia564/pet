@@ -34,12 +34,12 @@ dev_dependencies:
   flutter_launcher_icons: ^0.13.1
 
 flutter_launcher_icons:
-  image_path: "assets/land2.png"
+  image_path: "assets/images/rl.png"
   android: true
   ios: true
   web:
     generate: true
-    image_path: "assets/land2.png"
+    image_path: "assets/images/rl.png"
     background_color: "#FFFFFF"
     theme_color: "#FFFFFF"
 
